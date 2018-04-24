@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab2_2b_mod3</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="quiz">Quiz</string>
+    <string name="result">You answered %1$d out of %2$d questions correctly</string>
+    <string name="back">Go back</string>
+    <string name="start_again">Restart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="results_background">#ffb091</color>
+    <color name="app_background">#ffd4af</color>
+    <color name="unanswered_question_color">#000000</color>
+    <color name="wrong_answer_question_color">#f23939</color>
+    <color name="right_answer_question_color">#2fdc4c</color>
+</resources>
